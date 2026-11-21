@@ -1,0 +1,1 @@
+{"id":"./","name":"随记 - 极简备忘录","short_name":"随记","description":"简单、清晰、可靠的手机备忘录。","lang":"zh-CN","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#f6f8fb","theme_color":"#1e4f8a","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}

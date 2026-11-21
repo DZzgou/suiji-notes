@@ -1,0 +1,14 @@
+随记 V1.0 GitHub Pages 部署
+
+1. 打开仓库 https://github.com/DZzgou/suiji-notes
+2. 点击 Add file → Upload files。
+3. 解压本压缩包，将里面的全部文件和 .github 隐藏目录上传到仓库根目录。
+4. Commit changes，提交到 main 分支。
+5. 打开 Settings → Pages → Build and deployment，Source 选择 GitHub Actions。
+6. 打开 Actions，等待 Deploy 随记 PWA to GitHub Pages 工作流成功。
+7. 网站地址：https://dzzgou.github.io/suiji-notes/
+
+Android：Chrome 打开网站，菜单中选择安装应用/添加到主屏幕。
+iPhone：Safari 打开网站，分享 → 添加到主屏幕。
+
+隐私：笔记保存在设备本地 IndexedDB。仓库公开的是应用源代码，不包含用户笔记。换机、清理浏览器数据或卸载前，请先在设置中导出 JSON 备份。
